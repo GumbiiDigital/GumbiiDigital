@@ -72,3 +72,8 @@ The examples are intentionally synthetic. They support review of the method with
 I do not publish live addresses, hostnames, hardware identifiers, account names, local paths, credentials, raw telemetry, service inventories, exact physical mappings, outlet maps, controller identities, or operational topology. Public examples use reserved documentation addresses and fictional names. Approved rack photographs preserve visible engineering context without publishing the control map. Future technical material is added only after privacy review.
 
 For project-specific questions, open an issue in the relevant public repository.
+
+## Copyright
+
+Copyright (c) 2026 Gumbii Digital. All rights reserved. See
+[COPYRIGHT.md](COPYRIGHT.md) for the publication and reuse terms.

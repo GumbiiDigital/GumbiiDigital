@@ -69,7 +69,13 @@ The examples are intentionally synthetic. They support review of the method with
 
 ## Publication boundary
 
-I do not publish live addresses, hostnames, hardware identifiers, account names, local paths, credentials, raw telemetry, service inventories, exact physical mappings, outlet maps, controller identities, or operational topology. Public examples use reserved documentation addresses and fictional names. Approved rack photographs preserve visible engineering context without publishing the control map. Future technical material is added only after privacy review.
+I do not publish live IP addresses, credentials, access tokens, private keys,
+account or pairing secrets, or direct remote-access endpoints. Public engineering
+records may include hardware layout, service roles, outlet maps, BLE behavior,
+and operational topology when those details are part of the evidence and do not
+expose live network addressing or control credentials. Public examples use
+reserved documentation addresses and fictional names. Future technical
+material is added only after privacy review.
 
 For project-specific questions, open an issue in the relevant public repository.
 

@@ -79,7 +79,9 @@ material is added only after privacy review.
 
 For project-specific questions, open an issue in the relevant public repository.
 
-## Copyright
+## License
 
-Copyright (c) 2026 Gumbii Digital. All rights reserved. See
-[COPYRIGHT.md](COPYRIGHT.md) for the publication and reuse terms.
+Gumbii Digital's original code, documentation, examples, data, diagrams, and
+media are available under the [MIT License](LICENSE). Third-party components,
+assets, product names, and trademarks retain their respective terms; see
+[COPYRIGHT.md](COPYRIGHT.md) for scope.
